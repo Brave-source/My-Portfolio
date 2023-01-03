@@ -59,7 +59,7 @@ const Header = () => {
           {/* ======== navigation logo ======== */}
           <div className={`${classes.logo}`}>
             <h1>
-              <span>M</span>uhib
+              <span>E</span>dmund
             </h1>
           </div>
 
@@ -79,7 +79,7 @@ const Header = () => {
               <div className={`${classes.nav__right}`}>
                 <p className=" d-flex align-items-center gap-2 mb-0">
                   {" "}
-                  <i className="ri-phone-line"></i> +088123456789{" "}
+                  <i className="ri-phone-line"></i> +234-7062-698-896{" "}
                 </p>
               </div>
             </div>

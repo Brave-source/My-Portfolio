@@ -15,12 +15,13 @@ const Hero = () => {
           <Col lg="6" md="6">
             <div className={`${classes.hero__content}`}>
               <SectionSubtitle subtitle="Hello" />
-              <h2 className="mt-3 mb-3">I&apos;m Muhibur Rahman</h2>
-              <h5 className="mb-4">Frontend Developer</h5>
+              <h2 className="mt-3 mb-3">I&apos;m Edmund Ebiyenrin</h2>
+              <h5 className="mb-4">Frontend Developer | Web3 | Cardano Blockchain</h5>
               <p>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                Impedit rem sint ipsa cumque. Atque rem vel iusto impedit omnis
-                quos!
+              Hi 👋,  am Edmund, a web developer with over 3+ years of professional working experience. 
+              I work with Javascript and most recently transitioned into web3. I build decentralised 
+              app, as the lead developer for my previous job, I led the team to build a donation dapp 
+              for the organization, using NextJs, CIP30, Mesh, NMKR and plutus/haskell for the smart contracts.
               </p>
               <div className="mt-5">
                 <button className="primary__btn">
@@ -69,7 +70,7 @@ const Hero = () => {
                 </span>
                 <div className="bg-transparent">
                   <h6>Experience</h6>
-                  <h5 className="mb-0">4 Years</h5>
+                  <h5 className="mb-0">3 Years</h5>
                 </div>
               </div>
             </div>
